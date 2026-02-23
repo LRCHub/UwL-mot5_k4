@@ -1,0 +1,66 @@
+# Bad Bunny – La Difícil
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.65] Ella desaparece
+[00:11.50] Pero aparece cuando le dan gana'
+[00:14.82] Han sido un par de vece'
+[00:17.02] Y si es por mí le doy toa la semana
+[00:34.52] 
+[00:20.35] Se hace la que no quiere
+[00:22.32] Pero llama de madrugada
+[00:25.76] Terminaste sin ropa otra ve'
+[00:27.90] Pidiendo que te tocara, eh-eh
+[00:42.40] 
+[00:31.19] Se hace la difícil, pero se va
+[00:36.65] Anda con la' amigas siempre arrebatá
+[00:41.88] Pidiendo que le llegue, eh
+[00:44.69] Que a ella me entregue, eh
+[00:47.05] Pidiendo que le llegue, eh
+[00:49.84] Aunque a vece' me niegue, eh (ey, ey, ey, ey; prr)
+[01:14.84] 
+[00:53.74] Prende, pasa, dime qué pasó (eh)
+[00:56.74] Quería un gatito y lo cazó (lo cazó)
+[00:59.44] De la' relacione' se cansó (¡Ja!)
+[01:01.28] La última que tuvo la atrasó (¡Ja!; ¡Uh!)
+[01:21.78] 
+[01:03.04] Tú la ve' en el VIP, modelo como Hadid, invicta como Khabib
+[01:07.01] Má' de cien cabrone' que ella deja en read (read)
+[01:09.47] A vece' la' rola' y la weed (weed)
+[01:11.52] Una estrella porno, chinga como Riley Reid (uh)
+[01:35.02] 
+[01:14.12] Tiene a to' lo' nene' loco, y a la nena' loca' (loca')
+[01:17.54] To' quieren besarle la boca, ey
+[01:20.46] Mírala cómo se toca (¡uh!)
+[01:23.07] Bailando e'que me provoca
+[01:35.57] 
+[01:24.69] Tiene a to' lo' nene' loco, y a la nena' loca' (loca')
+[01:28.08] To' quieren besarle la boca, ey
+[01:31.12] Mírala cómo se toca (toca)
+[01:33.62] Perreando e'que me provoca (uh)
+[01:49.12] 
+[01:35.28] Se hace la difícil, pero se va
+[01:40.68] Anda con la' amigas siempre arrebatá, ah-ah
+[01:45.70] Pidiendo que le llegue, eh
+[01:48.60] Que a ella me entregue, eh
+[01:51.16] Pidiendo que le llegue, eh
+[01:53.73] Aunque a vece' me niegue, eh (ey, ey, ey, ey)
+[02:16.23] 
+[01:57.86] Prende, pasa, dime qué pasó
+[02:00.12] Pre-prende, pasa, dime qué pasó
+[02:02.75] Pre-prende, pasa, dime qué pasó
+[02:05.75] Dime qué pasó, ey
+[02:14.25] 
+[02:07.58] Tiene a to' lo' nene' loco, y a la nena' loca'
+[02:10.87] Loca', loca', loca'
+[02:12.87] Tiene a to' lo' nene' loco, y a la nena' loca'
+[02:16.17] Loca', loca', loca'
+[02:25.67] 
+[02:18.17] Eh-eh-eh, eh-eh-eh
+[02:22.92] Súbelo NEO
+[02:25.01] La Paciencia, ey
+[02:27.66] Bad Bunny, baby, bebé, eh, eh, eh
+[02:33.15] Bad Bunny, baby, bebé, eh, eh, eh
+[02:38.39] ¡Uh!
+```
