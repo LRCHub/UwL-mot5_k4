@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "La Difícil",
+  "base_artist": "Bad Bunny",
+  "createdAt": "2026-02-23T22:42:26.828931Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "La Difícil",
+      "artist": "Camilo",
+      "has_synced": true,
+      "path": "select/01_La_Difícil_Camilo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "La Difícil",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/02_La_Difícil_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La Difícil",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/03_La_Difícil_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Se Hace La Difícil",
+      "artist": "J Alvarez feat. Julio Voltio",
+      "has_synced": false,
+      "path": "select/04_Se_Hace_La_Difícil_J_Alvarez_feat._Julio_Voltio.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Se Hace la Difícil (feat. Julio Voltio)",
+      "artist": "J Álvarez",
+      "has_synced": false,
+      "path": "select/05_Se_Hace_la_Difícil_(feat._Julio_Voltio)_J_Álvarez.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Te Haces La Difícil",
+      "artist": "Nicky Jam",
+      "has_synced": false,
+      "path": "select/06_Te_Haces_La_Difícil_Nicky_Jam.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Difícil",
+      "artist": "Bad Bunny",
+      "has_synced": true,
+      "path": "select/07_La_Difícil_Bad_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Se Hace la Dificil",
+      "artist": "J Alvarez/Julio Voltio",
+      "has_synced": false,
+      "path": "select/08_Se_Hace_la_Dificil_J_Alvarez_Julio_Voltio.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "La Difícil (Chapter II)",
+      "artist": "Xriz feat. Mynameislobo",
+      "has_synced": false,
+      "path": "select/09_La_Difícil_(Chapter_II)_Xriz_feat._Mynameislobo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La Difícil",
+      "artist": "MYA feat. FMK",
+      "has_synced": true,
+      "path": "select/10_La_Difícil_MYA_feat._FMK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "La Difícil",
+      "artist": "MYA/FMK",
+      "has_synced": true,
+      "path": "select/11_La_Difícil_MYA_FMK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "La Difícil",
+      "artist": "DJ Tao",
+      "has_synced": true,
+      "path": "select/12_La_Difícil_DJ_Tao.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "La Difícil",
+      "artist": "Fanny Lu",
+      "has_synced": true,
+      "path": "select/13_La_Difícil_Fanny_Lu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "La Difícil",
+      "artist": "Marka Akme",
+      "has_synced": true,
+      "path": "select/14_La_Difícil_Marka_Akme.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "La Dificil",
+      "artist": "Marka Akme",
+      "has_synced": true,
+      "path": "select/15_La_Dificil_Marka_Akme.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "La Difícil (Chapter II)",
+      "artist": "Xriz/Mynameislobo",
+      "has_synced": false,
+      "path": "select/16_La_Difícil_(Chapter_II)_Xriz_Mynameislobo.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "La Dificil",
+      "artist": "Silvestre Dangond feat. Juancho De La Espriella",
+      "has_synced": false,
+      "path": "select/17_La_Dificil_Silvestre_Dangond_feat._Juancho_De_La_Espriella.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "La Dificil",
+      "artist": "Silvestre Dangond/Juancho De La Espriella",
+      "has_synced": false,
+      "path": "select/18_La_Dificil_Silvestre_Dangond_Juancho_De_La_Espriella.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "La Difícil",
+      "artist": "Bad Bunny",
+      "has_synced": false,
+      "path": "select/pl_01_La_Difícil_Bad_Bunny.txt"
+    }
+  ]
+}
